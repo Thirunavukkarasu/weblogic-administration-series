@@ -1,8 +1,7 @@
 # Weblogic-Administration-Series
 
 
-Completed videos:-
-==================
+## Completed videos
 
 * Part 1 - Installation 
 * Part 2 - Silent Mode Installation 
