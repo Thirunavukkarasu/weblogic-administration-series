@@ -13,3 +13,11 @@
 * Part 8 - Develop and Deploy EAR to Weblogic
 * Part 9 - Create DataSources
 * Part 10 - Introduction to WLST
+
+## Planned videos
+
+* Simulate Stuck Threads
+* Identify the root cause for the stuck thread
+* Simulate Connection Leak
+* Identify the root cause for the connection leak
+* Reverse proxying from Web Server to Weblogic application server
